@@ -1,4 +1,5 @@
 # React Portfolio
+![Screenshot 2024-02-20 223157](https://github.com/dudi62/portfolio-react/assets/63518444/cf039c8a-ef0c-4fea-afec-9405a72cf845)
 
 
 
@@ -15,7 +16,7 @@ This portfolio is a showcase of my development projects and professional accompl
 
 ## Installation
 
-1. Clone the repository using `git clone https://github.com/dudi62`.
+1. Clone the repository using `git clone (https://github.com/dudi62/portfolio-react)`.
 2. Run `npm install` to install dependencies.
 3. Ensure Node.js is installed to execute the application.
 
